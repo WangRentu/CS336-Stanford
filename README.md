@@ -6,7 +6,7 @@
 可以将所需要点环境都写进requirements.txt。
 （对于mac用户很友好）
 
-### 检查codespace环境
+## 检查codespace环境
 刚进来用的是初始的global环境，并不是conda里的python环境
 
 激活conda，配置shell
@@ -20,3 +20,8 @@ pip install ipykernel jupyter
 
 2. 将当前 Python 注册成一个可选内核
 python -m ipykernel install --user --name cs336 --display-name "Python (cs336)"
+
+## 内容
+1. 斯坦福计算机课程cs336课程内容及其作业
+
+2. AndrejKarpathy（OpenAI元老）带敲的项目
